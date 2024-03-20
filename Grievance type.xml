@@ -1,0 +1,79 @@
+		Degree/Diploma
+		Assignments 
+		Study Material
+		Learner Support
+		Practicals
+		Synopsis
+		Projects
+		Examination
+		Fresh Admission
+		Re-admission
+		Re-Registration
+		Credit Transfer 
+		Online Admission
+		Migration Certificate
+		Duplicate ID Card
+		Misc.
+		Transcript/Genuineness/Verification
+		Refund of excess exam fee
+		Hall ticket
+		Declaration of Term End Examination
+		Mark Sheet &amp; Provisional Certificate
+		Re-evaluation 
+		Answer script photocopy 
+		Entrance Test
+		Degree verification/Genuineness 
+		Official Transcript
+		Convocation 
+		Others
+		Change of Correspondence Address
+		Change of Programme
+		Name Correction
+
+
+
+
+Grievance Redressal Committee      -> Academic grievance
+SC/ST Committee        -> unfair Treatment 
+Student counselling Committee   ---> Student Counseling
+Anti harrassment Committee   -> harrassment and discrimination
+Academic administrative Committee  --->  Administrative Decisions, Services or Facilities
+
+
+Full texts
+grievanceid	
+studentname	
+email	
+gender	
+mobileno	
+enrollmentno	
+regionalcenter	
+programme	
+address	
+state	
+city	
+pincode	
+grievancecategory	
+grievancename	
+grievancediscription	
+solution	
+assignedto	
+status	
+Createdon	
+addnote
+
+studentname.
+email.
+gender.
+mobileno.
+enrollmentno.
+regionalcenter.
+Programme.
+address.
+state.
+pincode.
+grievancecategory.
+grievancediscription.
+solution.
+
+
